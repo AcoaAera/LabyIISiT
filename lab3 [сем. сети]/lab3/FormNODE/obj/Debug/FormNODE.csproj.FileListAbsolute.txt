@@ -1,0 +1,41 @@
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\bin\Debug\FormNODE.exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\bin\Debug\FormNODE.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\bin\Debug\FormNODE.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.Properties.Resources.resources
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.Form1.resources
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\bin\Debug\FormNODE.exe.config
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\bin\Debug\FormNODE.exe
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\bin\Debug\FormNODE.pdb
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.Form1.resources
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.Properties.Resources.resources
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.exe
+C:\Users\Vanya\Desktop\FormNODE\FormNODE\FormNODE\obj\Debug\FormNODE.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\bin\Debug\FormNODE.exe.config
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\bin\Debug\FormNODE.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\bin\Debug\FormNODE.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.Form1.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.Properties.Resources.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.pdb
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\bin\Debug\FormNODE.exe.config
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.exe
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.pdb
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.csprojResolveAssemblyReference.cache
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.Form1.resources
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.Properties.Resources.resources
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\obj\Debug\FormNODE.csproj.GenerateResource.Cache
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\bin\Debug\FormNODE.exe
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormNODE\bin\Debug\FormNODE.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab3 [сем. сети]\lab3\FormNODE\bin\Debug\FormNODE.exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab3 [сем. сети]\lab3\FormNODE\obj\Debug\FormNODE.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab3 [сем. сети]\lab3\FormNODE\obj\Debug\FormNODE.pdb

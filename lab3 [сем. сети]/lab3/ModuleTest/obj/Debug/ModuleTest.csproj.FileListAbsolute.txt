@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\bin\Debug\ModuleTest.dll
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\bin\Debug\ModuleTest.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\bin\Debug\FormNODE.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\bin\Debug\FormNODE.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\obj\Debug\ModuleTest.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\obj\Debug\ModuleTest.dll
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\3. СемСети\FormNODE\FormNODE\ModuleTest\obj\Debug\ModuleTest.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\ModuleTest.dll
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\ModuleTest.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\FormNODE.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\FormNODE.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\FormNODE.exe.config
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.csproj.CopyComplete
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.dll
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.pdb
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.csprojResolveAssemblyReference.cache
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.dll
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\obj\Debug\ModuleTest.pdb
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\ModuleTest.dll
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\ModuleTest.pdb
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\FormNODE.exe
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\FormNODE.pdb
+E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\ModuleTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
