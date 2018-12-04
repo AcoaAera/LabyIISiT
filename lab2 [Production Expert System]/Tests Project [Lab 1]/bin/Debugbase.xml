@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<defrules>
+    <defrule name="pointsDefrule" question="Укажите средний балл ЕГЭ: low - менее 75; normal - между 75 и 86; hight - более 86" validAnswers="low,normal,hight">
+    </defrule>
+
+    <defrule name="medalistDefrule" question="Занимали ли вы призовые места на олимпиадах регионального уровня (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="myCityDefrule" question="В каком городе бы Вы хотели обучаться? (Москва, Санкт-Петербург, Томск, Екатеринбург, Пермь, Калининград)" validAnswers="Москва,Санкт-Петербург,Томск,Екатеринбург,Пермь,Калининград">
+    </defrule>
+
+    <defrule name="workDefrule" question="Работали ли вы (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="ageDefrule" question="Есть ли вам есть 21 год ? (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="physicsDefrule" question="Сдавали ли вы физику (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="infoDefrule" question="Сдавали ли вы информатику (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="mathDefrule" question="Сдавали ли вы математику (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="biologyDefrule" question="Сдавали ли вы биологию (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="chemistryDefrule" question="Сдавали ли вы химию (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="historyDefrule" question="Сдавали ли вы историю (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="socialDefrule" question="Сдавали ли вы обществознание (да/нет) ?" validAnswers="да,нет">
+    </defrule>
+
+    <defrule name="expHightDefrule">
+        <premise name="work" value="да" />
+        <premise name="age" value="да" />
+    </defrule>
+
+    <defrule name="expNormalDefrule">
+        <premise name="work" value="да" />
+        <premise name="age" value="нет" />
+    </defrule>
+
+    <defrule name="expNormalDefrule">
+        <premise name="work" value="нет" />
+        <premise name="age" value="да" />
+    </defrule>
+
+    <defrule name="expLowDefrule">
+        <premise name="work" value="нет" />
+        <premise name="age" value="нет" />
+    </defrule>
+
+    <defrule name="humDefrule">
+        <premise name="history" value="да" />
+        <premise name="social" value="да" />
+    </defrule>
+
+    <defrule name="medDefrule">
+        <premise name="chemistry" value="да" />
+        <premise name="biology" value="да" />
+    </defrule>
+
+    <defrule name="techDefrule">
+        <premise name="physics" value="да" />
+        <premise name="info" value="да" />
+        <premise name="math" value="да" />
+    </defrule>
+
+    <defrule name="top5Defrule">
+        <premise name="points" value="hight" />
+        <premise name="medalist" value="да" />
+        <premise name="expHight" value="да" />
+    </defrule>
+
+    <defrule name="top6-20Defrule">
+        <premise name="points" value="normal" />
+        <premise name="expNormal" value="да" />
+    </defrule>
+
+    <defrule name="pro4ieDefrule">
+        <premise name="points" value="low" />
+        <premise name="expLow" value="да" />
+    </defrule>
+
+    <!-- МГУ -->
+    <defrule name="ВУЗDefrule" univName="МГУ">
+        <premise name="top5" value="да" />
+        <premise name="med" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="МГУ">
+        <premise name="top5" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="МГУ">
+        <premise name="top5" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <!-- Баумана -->
+    <defrule name="ВУЗDefrule" univName="МГТУ имени Баумана">
+        <premise name="top5" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="МГТУ имени Баумана">
+        <premise name="top5" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <!-- СПбГУ -->
+    <defrule name="ВУЗDefrule" univName="СПбГУ">
+        <premise name="top5" value="да" />
+        <premise name="med" value="да" />
+        <premise name="myCity" value="Санкт-Петербург" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="СПбГУ">
+        <premise name="top5" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Санкт-Петербург" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="СПбГУ">
+        <premise name="top5" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Санкт-Петербург" />
+    </defrule>
+
+    <!-- РУДН -->
+    <defrule name="ВУЗDefrule" univName="РУДН">
+        <premise name="top6-20" value="да" />
+        <premise name="med" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="РУДН">
+        <premise name="top6-20" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="РУДН">
+        <premise name="top6-20" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <!-- УрФУ -->
+    <defrule name="ВУЗDefrule" univName="УрФУ">
+        <premise name="top6-20" value="да" />
+        <premise name="med" value="да" />
+        <premise name="myCity" value="Екатеринбург" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="УрФУ">
+        <premise name="top6-20" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Екатеринбург" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="УрФУ">
+        <premise name="top6-20" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Екатеринбург" />
+    </defrule>
+
+    <!-- ТГУ -->
+    <defrule name="ВУЗDefrule" univName="ТГУ">
+        <premise name="top6-20" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Томск" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="ТГУ">
+        <premise name="top6-20" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Томск" />
+    </defrule>
+
+    <!-- ПНИПУ -->
+    <defrule name="ВУЗDefrule" univName="ПНИПУ">
+        <premise name="pro4ie" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Пермь" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="ПНИПУ">
+        <premise name="pro4ie" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Пермь" />
+    </defrule>
+
+    <!-- МГИМО -->
+    <defrule name="ВУЗDefrule" univName="МГИМО">
+        <premise name="pro4ie" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="МГИМО">
+        <premise name="pro4ie" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="МГИМО">
+        <premise name="pro4ie" value="да" />
+        <premise name="med" value="да" />
+        <premise name="myCity" value="Москва" />
+    </defrule>
+
+    <!-- КГТУ -->
+    <defrule name="ВУЗDefrule" univName="КГТУ">
+        <premise name="pro4ie" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Калининград" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="КГТУ">
+        <premise name="pro4ie" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Калининград" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="КГТУ">
+        <premise name="pro4ie" value="да" />
+        <premise name="med" value="да" />
+        <premise name="myCity" value="Калининград" />
+    </defrule>
+
+    <!-- ПГФА -->
+    <defrule name="ВУЗDefrule" univName="ПГФА">
+        <premise name="pro4ie" value="да" />
+        <premise name="tech" value="да" />
+        <premise name="myCity" value="Пермь" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="ПГФА">
+        <premise name="pro4ie" value="да" />
+        <premise name="hum" value="да" />
+        <premise name="myCity" value="Пермь" />
+    </defrule>
+
+    <defrule name="ВУЗDefrule" univName="ПГФА">
+        <premise name="pro4ie" value="да" />
+        <premise name="med" value="да" />
+        <premise name="myCity" value="Пермь" />
+    </defrule>
+
+</defrules>
