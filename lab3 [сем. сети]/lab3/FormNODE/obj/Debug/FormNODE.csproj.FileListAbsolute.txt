@@ -39,3 +39,6 @@ E:\Интеллектуальные ИСИТ\lab 2 [сем. сети]\lab2\FormN
 C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab3 [сем. сети]\lab3\FormNODE\bin\Debug\FormNODE.exe.config
 C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab3 [сем. сети]\lab3\FormNODE\obj\Debug\FormNODE.exe
 C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab3 [сем. сети]\lab3\FormNODE\obj\Debug\FormNODE.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\тестРустем5\LabyIISiT\lab3 [сем. сети]\lab3\FormNODE\bin\Debug\FormNODE.exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\тестРустем5\LabyIISiT\lab3 [сем. сети]\lab3\FormNODE\obj\Debug\FormNODE.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\тестРустем5\LabyIISiT\lab3 [сем. сети]\lab3\FormNODE\obj\Debug\FormNODE.pdb
