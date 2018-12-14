@@ -34,3 +34,6 @@ C:\Users\HP\Desktop\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTr
 C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab5 [НС]\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe.config
 C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab5 [НС]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.exe
 C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab5 [НС]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ2\LabyIISiT\lab5 [НС]\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ2\LabyIISiT\lab5 [НС]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ2\LabyIISiT\lab5 [НС]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.pdb
