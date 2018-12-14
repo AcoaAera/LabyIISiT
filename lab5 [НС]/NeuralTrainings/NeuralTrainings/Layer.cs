@@ -89,5 +89,20 @@ namespace NeuralTrainings
                 link.Neuron2.Signal = false;
             }
         }
+
+        //Свертка
+        public double[] GetMultiples()
+        {
+            double[] multiples = new double[outputNeuronsCount];
+
+            for (int i = 0; i < outputNeuronsCount; i++)
+                for (int j = i; j < layer.Count; j += outputNeuronsCount)
+                {
+                    if (layer[j].Neuron1.Signal)
+                        multiples[i] += layer[j].WeightValue;
+                }
+
+            return multiples;
+        }
     }
 }
