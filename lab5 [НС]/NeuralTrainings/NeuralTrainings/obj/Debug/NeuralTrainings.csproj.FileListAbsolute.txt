@@ -1,0 +1,36 @@
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe.config
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.pdb
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.Form1.resources
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.Properties.Resources.resources
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.exe
+C:\Users\Vanya\Desktop\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe.config
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.Form1.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.Properties.Resources.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe.config
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.Form1.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.Properties.Resources.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.pdb
+C:\Users\HP\Desktop\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe.config
+C:\Users\HP\Desktop\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.exe
+C:\Users\HP\Desktop\lab 5 [нейронная сеть]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab5 [НС]\NeuralTrainings\NeuralTrainings\bin\Debug\NeuralTrainings.exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab5 [НС]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ\lab5 [НС]\NeuralTrainings\NeuralTrainings\obj\Debug\NeuralTrainings.pdb

@@ -1,0 +1,6 @@
+﻿namespace NeuralTrainings
+{
+    class Neuron
+    {
+    }
+}
