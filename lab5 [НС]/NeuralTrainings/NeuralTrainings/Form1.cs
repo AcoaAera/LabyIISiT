@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.IO;
 using System.Windows.Forms;
-using System.Drawing.Imaging;
 
 namespace NeuralTrainings
 {
@@ -55,14 +49,22 @@ namespace NeuralTrainings
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
         {
+            CurrentMouseState = CurrentMouseStates.MouseMove;
         }
 
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
+            if (CurrentMouseState == CurrentMouseStates.MouseMove) //  && IsCursorOnPictureBox(e.X, e.Y)
+            {
+                graphics = Graphics.FromImage(bitmap);
+                graphics.DrawLine(pen, e.X + penWidth, e.Y + penWidth, e.X, e.Y);
+                pictureBox1.Invalidate();
+            }
         }
 
         private void pictureBox1_MouseUp(object sender, MouseEventArgs e)
         {
+            CurrentMouseState = CurrentMouseStates.NotMouseMove;
         }
 
         private void RecognitionBtn_Click(object sender, EventArgs e)
@@ -119,18 +121,48 @@ namespace NeuralTrainings
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
+            weights = neuralNetwork.GetWeights();
+            ArrayWrite(weights, path);
+        }
+
+        private void ArrayWrite(double[,] arr, string path)
+        {
+            File.WriteAllText(path, "");
+
+            for (int i = 0; i < arr.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    File.AppendAllText(path, arr[i, j] + " ");
+                }
+                File.AppendAllText(path, "\r\n");
+            }
+        }
+
+        private bool IsCursorOnPictureBox(float x, float y)
+        {
+            float PBwidth = pictureBox1.Width;
+            float PBheight = pictureBox1.Height;
+
+            if (x > 0 && x < PBwidth && y > 0 && y < PBheight)
+                return true;
+
+            return false;
         }
 
         private void PbClearBtn_Click(object sender, EventArgs e)
         {
+            PictureBoxClear();
         }
 
         private void StudyModeRB_CheckedChanged(object sender, EventArgs e)
         {
+            WorkMode = WorkMode.Study;
         }
 
         private void RecognitionModeRB_CheckedChanged(object sender, EventArgs e)
         {
+            WorkMode = WorkMode.Recognition;
         }
 
         private void PictureBoxClear()
