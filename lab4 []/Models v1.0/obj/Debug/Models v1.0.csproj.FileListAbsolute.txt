@@ -1,0 +1,73 @@
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\bin\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\bin\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\obj\Debug\Models v1.0.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\obj\Debug\Models_v1._0.Form1.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\obj\Debug\Models_v1._0.Properties.Resources.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\obj\Debug\Models v1.0.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\obj\Debug\Models v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0\Models v1.0\obj\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\bin\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\bin\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\obj\Debug\Models v1.0.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\obj\Debug\Models_v1._0.Form1.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\obj\Debug\Models_v1._0.Properties.Resources.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\obj\Debug\Models v1.0.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\obj\Debug\Models v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.0 — копия\Models v1.0\obj\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\bin\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\bin\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\obj\Debug\Models v1.0.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\obj\Debug\Models_v1._0.Form1.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\obj\Debug\Models_v1._0.Properties.Resources.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\obj\Debug\Models v1.0.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\obj\Debug\Models v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.1 — копия\Models v1.0\obj\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\bin\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\bin\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\obj\Debug\Models v1.0.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\obj\Debug\Models_v1._0.Form1.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\obj\Debug\Models_v1._0.Properties.Resources.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\obj\Debug\Models v1.0.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\obj\Debug\Models v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.2 — копия\Models v1.0\obj\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\bin\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\bin\Debug\Models v1.0.pdb
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\obj\Debug\Models v1.0.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\obj\Debug\Models_v1._0.Form1.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\obj\Debug\Models_v1._0.Properties.Resources.resources
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\obj\Debug\Models v1.0.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\obj\Debug\Models v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\Олег\Desktop\Учеба\Интеллектуальные ИСИТ\Models v1.3\Models v1.0\obj\Debug\Models v1.0.pdb
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\bin\Debug\Models v1.0.exe
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\bin\Debug\Models v1.0.pdb
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\obj\Debug\Models v1.0.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\obj\Debug\Models_v1._0.Form1.resources
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\obj\Debug\Models_v1._0.Properties.Resources.resources
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\obj\Debug\Models v1.0.csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\obj\Debug\Models v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\Vanya\Desktop\Models v1.4\Models v1.0\obj\Debug\Models v1.0.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\bin\Debug\Models v1.0.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\bin\Debug\Models v1.0.pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\obj\Debug\Models v1.0.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\obj\Debug\Models_v1._0.Form1.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\obj\Debug\Models_v1._0.Properties.Resources.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\obj\Debug\Models v1.0.csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\obj\Debug\Models v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\Models v1.4\Models v1.0\obj\Debug\Models v1.0.pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ3\LabyIISiT\lab4 []\Models v1.0\bin\Debug\Models v1.0.exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ3\LabyIISiT\lab4 []\Models v1.0\obj\Debug\Models v1.0.exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\ИИСИТ ГИТ3\LabyIISiT\lab4 []\Models v1.0\obj\Debug\Models v1.0.pdb

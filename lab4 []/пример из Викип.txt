@@ -1,0 +1,29 @@
+#region Пример из Википедии
+
+            //for (int i = 0; i < 23; i++)
+            //{
+            //    users[i].AddPreference(1);
+            //    users[i].AddPreference(3);
+            //    users[i].AddPreference(2);
+            //}
+            //for (int i = 0; i < 19; i++)
+            //{
+            //    users[23 + i].AddPreference(2);
+            //    users[23 + i].AddPreference(3);
+            //    users[23 + i].AddPreference(1);
+            //}
+            //for (int i = 0; i < 16; i++)
+            //{
+            //    users[23 + 19 + i].AddPreference(3);
+            //    users[23 + 19 + i].AddPreference(2);
+            //    users[23 + 19 + i].AddPreference(1);
+            //}
+            //for (int i = 0; i < 2; i++)
+            //{
+            //    users[23 + 19 + i + 16].AddPreference(3);
+            //    users[23 + 19 + i + 16].AddPreference(1);
+            //    users[23 + 19 + i + 16].AddPreference(2);
+            //}
+            //ViewWinner();
+
+            #endregion
