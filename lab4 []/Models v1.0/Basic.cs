@@ -11,6 +11,9 @@ namespace Models_v1._0
         protected int[] countVotesVariants;//кол-во голосов для каждой гипотезы
         protected List<User> users;//предпочтения польз-й
 
+        protected List<User> noRepeatPreference;//неповтор-ся предпочтения
+        protected List<int> countVotesPreference;//кол-во гололос по каждому из предпоч-й
+
         string path = Directory.GetCurrentDirectory() + @"\info.txt";
         StreamWriter writer;
 
@@ -29,6 +32,35 @@ namespace Models_v1._0
             }
 
             return iMax;
+        }
+
+        protected void NoRepetPreference()//формир-е списка неповтор-ся предпочтений
+        {
+            foreach (User user1 in users)
+            {
+                bool equal = false;
+
+                foreach (var pref in noRepeatPreference)
+                    if (pref.GetPreferences.SequenceEqual(user1.GetPreferences))
+                    {
+                        equal = true;
+                        break;
+                    }
+
+                if (equal)
+                    continue;
+
+                int count = 0;
+
+                foreach (User user2 in users)
+                    if (user1.GetPreferences.SequenceEqual(user2.GetPreferences))
+                        count++;
+
+                countVotesPreference.Add(count);
+
+                if (!noRepeatPreference.Contains(user1))
+                    noRepeatPreference.Add(user1);
+            }
         }
 
         protected void WriteData(int[] data, string nameMethod)
